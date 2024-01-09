@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Hello This Is My First App.")
+st.title("Hi, This Is My First App .")
 
 i1 = st.text_input("Enter an integer")
 i2 = st.text_input("Enter another integer")
